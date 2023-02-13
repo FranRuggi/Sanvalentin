@@ -1,5 +1,5 @@
 body {
-    background-color: #fff0f5;
+    background-color: #ffd3e2;
   }
   
   .container {
@@ -46,5 +46,11 @@ body {
     width: 500px;
     height: 500px;
     border-radius: 10px;
+  }
+  .h1{
+    color: blueviolet;
+  }
+  .h2{
+    color: blueviolet;
   }
   
